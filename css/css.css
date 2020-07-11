@@ -1,0 +1,10 @@
+@import url("../fonts/DBOzoneX/styles.css");
+@import url("../fonts/DBOzoneX-Light/styles.css");
+@import url("../fonts/DBOzoneX-UltraLi/styles.css");
+@import url("../fonts/DBOzoneX-Medium/styles.css");
+@import url("../fonts/DBOzoneX-Bold/styles.css");
+
+body {
+  font-family: "DBOzoneX";
+  font-size: 16px;
+}
